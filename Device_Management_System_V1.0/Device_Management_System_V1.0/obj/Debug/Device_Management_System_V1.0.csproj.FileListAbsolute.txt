@@ -1,0 +1,13 @@
+C:\Users\DVT_H1-07\source\repos\Device_Management_System_V1.0\Device_Management_System_V1.0\bin\Debug\Device_Management_System_V1.0.exe.config
+C:\Users\DVT_H1-07\source\repos\Device_Management_System_V1.0\Device_Management_System_V1.0\bin\Debug\Device_Management_System_V1.0.exe
+C:\Users\DVT_H1-07\source\repos\Device_Management_System_V1.0\Device_Management_System_V1.0\bin\Debug\Device_Management_System_V1.0.pdb
+C:\Users\DVT_H1-07\source\repos\Device_Management_System_V1.0\Device_Management_System_V1.0\obj\Debug\Device_Management_System_V1.0.csprojResolveAssemblyReference.cache
+C:\Users\DVT_H1-07\source\repos\Device_Management_System_V1.0\Device_Management_System_V1.0\obj\Debug\Device_Management_System_V1._0.Login.resources
+C:\Users\DVT_H1-07\source\repos\Device_Management_System_V1.0\Device_Management_System_V1.0\obj\Debug\Device_Management_System_V1._0.Properties.Resources.resources
+C:\Users\DVT_H1-07\source\repos\Device_Management_System_V1.0\Device_Management_System_V1.0\obj\Debug\Device_Management_System_V1.0.csproj.GenerateResource.Cache
+C:\Users\DVT_H1-07\source\repos\Device_Management_System_V1.0\Device_Management_System_V1.0\obj\Debug\Device_Management_System_V1.0.csproj.CoreCompileInputs.cache
+C:\Users\DVT_H1-07\source\repos\Device_Management_System_V1.0\Device_Management_System_V1.0\obj\Debug\Device_Management_System_V1.0.exe
+C:\Users\DVT_H1-07\source\repos\Device_Management_System_V1.0\Device_Management_System_V1.0\obj\Debug\Device_Management_System_V1.0.pdb
+C:\Users\DVT_H1-07\source\repos\Device_Management_System_V1.0\Device_Management_System_V1.0\obj\Debug\Device_Management_System_V1._0.Register.resources
+C:\Users\DVT_H1-07\source\repos\Device_Management_System_V1.0\Device_Management_System_V1.0\obj\Debug\Device_Management_System_V1._0.Change_password.resources
+C:\Users\DVT_H1-07\source\repos\Device_Management_System_V1.0\Device_Management_System_V1.0\obj\Debug\Device_Management_System_V1._0.Device_Management_System.resources
